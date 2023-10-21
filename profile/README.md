@@ -1,2 +1,2 @@
 # Parallel
-Bypassing censorship one at a time.
+Bypassing internet censorship one step at a time.
